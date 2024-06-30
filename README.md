@@ -7,11 +7,11 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mí</h2>
 
 ###
 
-<h4 align="left">📚 Actualmente estudio DAM</h4>
+<h4 align="left">📚 Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma). Además de programar, soy un gran fan de los videojuegos🎮</h4>
 
 ###
 
