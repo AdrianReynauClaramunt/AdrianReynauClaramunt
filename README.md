@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Me llamo Adrián y soy de España</p>
+<p align="left">Me llamo Adrián y soy un programador español</p>
 
 ###
 
