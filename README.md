@@ -1,4 +1,4 @@
-<img src="Adrián Reynau.png">
+<img src="Adrián Reynau.png" size="1000px">
 <h1 align="left">Hola 👋</h1>
 
 ###
