@@ -37,3 +37,7 @@
 </div>
 
 ###
+
+## 📫 ¿Hablamos?
+
+Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-reynau-claramunt/) o escribirme a [tuemail@email.com](mailto:adrianreynauclaramunt2@gmail.com).
