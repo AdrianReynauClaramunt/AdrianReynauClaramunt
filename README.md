@@ -11,7 +11,7 @@
 
 ###
 
-<h4 align="left">📚 Soy estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma). Además de programar, soy un gran fan de los videojuegos🎮 y estoy comenzando en la ciberseguridad 👾</h4>
+<h4 align="left">🎓 Estudiante de DAM (Desarrollo de Aplicaciones Multiplataforma). Me apasiona la programación, los videojuegos 🎮 y recientemente he comenzado a explorar el mundo de la ciberseguridad 👾.</h4>
 
 ###
 
